@@ -13,3 +13,4 @@ types-paramiko
 types-PyYAML
 -r requirements.txt
 -r requirements-ttp.txt
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
